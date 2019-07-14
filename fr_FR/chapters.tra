@@ -1,0 +1,422 @@
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////                                                  \\\\\
+///// textscreens                                      \\\\\
+/////                                                  \\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+
+/////                                                  \\\\\
+///// BG1                                              \\\\\
+/////                                                  \\\\\
+
+//no translation needed for Prologue (start of BG1)
+
+//@11898+@16190+@11899 removed newlines
+@2000000 = ~L'aube est particulièrement cruelle ce matin. Vous vous réveillez en prenant conscience que ce n'était pas un cauchemar. Pris dans une embuscade, vous avez vu Gorion se faire abattre devant vous, et sa puissante magie n'a pas pu le sauver de ce violent assaut. Il vous a demandé de prendre la fuite, mais cela n'enlève pas le sentiment d'impuissance qui vous envahit à présent. "Remettez-nous votre enfant", dit le félon en armure. Il en avait après vous et vous seulement, mais pour quelle raison ? Si seulement Gorion vous avait mis sur la piste, mais à présent vous vous sentez seul et perdu. Château-Suif n'est pas loin, mais vous ne pourrez pas vous y réfugier. Les lecteurs paient pour leur sérénité avec des règles d'accès assez draconiennes, et sans l'intervention de Gorion, les portes demeureront fermées. Vous ne tiendrez pas longtemps sans aide et avec votre pauvre matériel. Peut-être pourriez-vous trouver de l'aide auprès des amis dont Gorion a parlé, ceux de Brasamical.~ [CHAP00A]
+//@15836 no changes
+@2000001 = ~Peu après votre fuite précipitée de Château-Suif, les problèmes que doit confronter la Côte des Epées ne sont plus qu'un lointain souci pour votre esprit embrumé. Toutefois, Gorion n'a aucune envie de vous voir vous adonner à l'oisiveté et peut-être qu'une enquête sur les problèmes locaux vous permettrait de mieux comprendre votre propre situation. Comment la pénurie de fer ou les problèmes des mines de Nashkel peuvent-ils être liés à vous, vous n'en avez aucune idée.~ [CHAPTER1]
+//@15837 no changes
+@2000002 = ~Il ne fait aucun doute que la mort de Mulahey va soulager les craintes de la population terrorisée de Nashkel, mais vous demeurez dans l'inquiétude. S'il est possible que le demi-orque soit effectivement à l'origine des problèmes de la mine, la pénurie de fer est trop généralisée pour être de son seul fait. Ses lettres confirment vos soupçons, et bien qu'elles ne donnent guère d'indications sur la cachette de ses cohortes, celles-ci doivent être alliées aux bandits qui hantent actuellement la Voie Côtière.~ [CHAPTER2]
+//@15838 no changes
+@2000003 = ~Mulahey et Tazok se sont révélés n'être que des marionnettes ; le véritable maître de ce mystère qui se dévoile peu à peu devant vous continue de vous échapper. Une chose est certaine : une personne a pris un intérêt très personnel à vouloir votre mort, mais vous ne savez pas très bien pourquoi. Votre quête de réponses se poursuit et le prémonitoire Bois-Manteau est votre prochain objectif.~ [CHAPTER3]
+//@15839 no changes
+@2000004 = ~Vous avez fait subir un rude revers à l'organisation connue sous le nom de Trône de Fer, une défaite qui ne sera certainement pas passée sous silence. Vous devez maintenant vous rendre dans la grande cité de la Porte de Baldur, où vous découvrirez assurément la vérité qui se cache derrière l'étrange complot qui ronge la vie des habitants de la Côte des Épées.~ [CHAPTER4]
+//@15840 no changes
+@2000005 = ~Votre voyage vous ramène à votre point de départ. Le Duc Eltan vous a demandé de revenir à Château-Suif, où vous devez espionner les chefs du Trône de Fer. Bien que cela vous dérange que des personnages aussi maléfiques se servent de la grande bibliothèque et que vous aimeriez que les circonstances de votre visite soient différentes, ce sera néanmoins un plaisir pour vous que de retrouver votre ancien foyer.~ [CHAPTER5]
+//@15841 no changes
+@2000006 = ~La vie continue d'être un véritable défi. On vous accuse d'avoir assassiné les responsables du Trône de Fer, et le Poing Enflammé ne vous lâchera certainement pas d'une semelle pour cette raison. En dépit de tout, vous devez retourner à la Porte de Baldur, l'antre-même de vos accusateurs. Vous devez retrouver et démasquer celui qui vous a mis dans ce guêpier. Vous devez retrouver Sarevok.~ [CHAPTER6]
+
+/////                                                  \\\\\
+///// BG:SoD                                           \\\\\
+/////                                                  \\\\\
+
+//@70019 no changes
+@2000007 = ~Korlasz is defeated, and the last of Sarevok's influence died with her. Your foster father, Gorion, has been avenged. With the exception of your friend Imoen, those who helped you thwart your half-brother's schemes drift away from you, returning to their lives. For the first time since you left Candlekeep, you have the opportunity to reflect on the astonishing turns your life has taken.
+
+Though you are fêted by the rulers of Baldur's Gate, a sense of unease plagues you. You can't help but hear the rumors, the whispers that you share the same dark blood as Sarevok. Some hint you killed your half-brother not for the good of the city, but so you could usurp his place and his power. For the moment, however, your persecutors' voices are drowned out by an ever-growing number of others with more immediate concerns.
+
+Every day, more refugees driven from their homes by the servants of Caelar Argent arrive at the city gates. Many have stories of the Shining Lady's grace; all have tales of her followers' wrath.
+
+A tenday after Korlasz's defeat, you retire to your chamber in the Ducal Palace, your thoughts troubled. You wonder what effect Caelar's crusade will have on Baldur's Gate, little knowing how close at hand the answer is...~ [BD70019]
+//@56974 no changes
+@2000008 = ~Captain Schael Corwin and her aide, Corporal Bence Duncan, maintain order in the caravan from Baldur's Gate. Some who joined the expedition are unaccustomed to Flaming Fist discipline. Hard lessons are learned in the early days of the march north.
+
+The journey is slowed by the crusade's victims. A multitude of broken, haunted men and women clog the Coast Way. When asked, they speak of fields set aflame, granaries ransacked, and family conscripted by the crusade. Yet many characterize these hardships as necessary sacrifices in pursuit of a greater good. A strange acceptance, even admiration, of Caelar Argent is disconcertingly common in those she has wronged. Some proclaim the Shining Lady a prophet, doing the work of not one but all faiths, all gods.
+
+Is it possible Caelar Argent's cause is a righteous one? Or is she engaged in a great deception to further her own agenda, as Sarevok once did?~ [BD56974]
+//@56368 no changes
+@2000009 = ~With the Coast Way Crossing destroyed, the only safe route across the Winding Water is Boareskyr Bridge—where your father, Bhaal, was murdered by the mad god Cyric. Each step toward the distant landmark fills you with unease.
+
+You are not alone in that. The Flaming Fists also fear what may lie ahead. If Caelar has destroyed Boareskyr Bridge, the expedition will not reach Dragonspear Castle in time to stop the crusade. The forces of Baldur's Gate and its allies will be outmatched. Slaughtered.
+
+These fears grip your allies but also drive them forward. The anxious whispers fall silent when the march is called to a halt less than a day's travel from Boareskyr. The Flaming Fist sets up camp and prepares for the next meeting with the crusade, while you plan your next move.~ [BD56368]
+//@56371 no changes
+@2000010 = ~Signs of the crusade's recent presence can be seen on the road to Dragonspear Castle, but the Shining Lady's actual servants are rarely encountered. The few crusaders you spy in the distance invariably retreat at the first opportunity.
+
+As the march wears on, fatigue grips your company. Tempers flare within the caravan. Your reputation as the hero of Baldur's Gate protects you from petty squabbles and angry outbursts... or perhaps, after what happened on Boareskyr Bridge, there is another reason few are willing to cross you.
+
+These thoughts are put aside when you see the banners of Waterdeep, Daggerford, and the Flaming Fist at the edge of the coalition’s siege camp. Dragonspear Castle is near, and so is Caelar's day of reckoning.~ [BD56371]
+//@56373 no changes
+@2000011 = ~Steel and magic still clash in the distance, but you have thwarted Caelar's attack upon the siege camp. The time has come for the combined forces of Waterdeep, Daggerford, and Baldur’s Gate to take the battle to the Shining Lady.
+
+The walls surrounding Dragonspear's ruins teem with crusaders. Among them are Caelar’s most trusted lieutenants, men and women of unparalleled skill ready to sacrifice all for their leader. Defeating them and penetrating the castle will not be easy, but that is the task before you.~ [BD56373]
+//@56375 no changes
+@2000012 = ~Avernus, the first pit of the Nine Hells, assaults your senses. The stench of brimstone and curdled milk fills your nostrils, coating your tongue and throat in a nausea-inducing film. The bitter moans of the damned envelop you, pressing in from all sides, smothering.
+
+As your watering eyes grow accustomed to the dim lava light of the pit, you begin to feel the oppressive majesty of the blasted waste around you. In pursuing the Shining Lady, you have been brought to the darkest place imaginable, and the pursuit is not yet over. Crusader corpses litter the ground around you, but of Caelar herself, there is no sign.~ [BD56375]
+//@56378 no changes
+@2000013 = ~You return to Baldur's Gate under circumstances much darker than anyone would have believed. What should have been a moment of crowning triumph is instead a nightmare beyond your understanding.
+
+Skie Silvershield lies dead, seemingly at your hand. The siege force's clerics are unable to revive her. Her magically preserved body has been transported to Grand Duke Entar Silvershield, who clings to the faint hope that his daughter might someday be resurrected. You share that hope; without Skie, you may never know the truth of what happened that dark night. 
+
+Once, you thought yourself free of your father's taint. But as you journeyed to Dragonspear Castle, you realized this was not so. You are a child of Bhaal, Lord of Murder. A piece of him resides in you. Has it grown beyond your control? Was yours the hand that plunged the dagger into Skie Silvershield's breast? You do not know. And that fact haunts you.
+
+When you left Baldur's Gate, people cheered you as the city's hero. Now they look upon you and see something very different.~ [BD56378]
+
+/////                                                  \\\\\
+///// BG2:SoA                                          \\\\\
+/////                                                  \\\\\
+
+//no textscreen for chapter 13: part 2 (start of SoA)
+
+//@48005 removed CHAPTER TWO
+@2000014 = ~L’affaire est conclue et vous avez un objectif, même si celui-ci est éloigné. Votre nouvel "ami" vous a assuré que le passage à Imoen peut être acheté ... même si vous êtes certain que le prix final à payer comportera bien plus que de l'or. Toute aide est la bienvenue, cependant, et même si le coût peut être élevé, votre chemin est libre. Trouver Imoen mènera à Irenicus ... et à des réponses attendues depuis longtemps.~ [CHAPT02]
+//@61359 removed CHAPTER THREE
+@2000015 = ~Les alliés coûtent cher dans la Cité de la Monnaie, mais vous êtes certain d'avoir fait un investissement judicieux. Par l'intermédiaire de Gaelan Bayle, vous avez acheté l'aide d'Aran Linvail, Maître des Ombres d’Athkatla. Aussi inquiétant que cela puisse paraître, vous n’avez guère d’autre choix. Vous avez déjà ressenti l'influence de ceux qui travaillent contre votre recherche d'Irenicus.~ [CHAPT03A]
+//@61360 removed CHAPTER THREE
+@2000016 = ~Les alliés coûtent cher dans la Cité de la Monnaie, mais vous avez investi avec soin pour servir au mieux vos intérêts. En dépit de sa nature sombre, Bodhi a promis beaucoup et semble vouloir tenir parole, bien qu'il y ait assurément un prix supérieur aux pièces que vous avez données. Elle vous est utile pour le moment, tant qu'elle vous aide dans votre recherche d'Irenicus.~ [CHAPT03B]
+//@8633 removed CHAPTER FOUR
+@2000017  = ~Aran Linvail s'est montré digne de confiance. Vous êtes bientôt en route avec le flamboyant Saemon Havarian à la barre. Le voyage se déroule sans incident, et s’il y avait d’autres navires sur le même cap, ils devaient garder une distance discrète. Vous avez du bon temps, et bientôt il y a une grande île à l'horizon. Cela aurait pu être considéré comme un endroit agréable, mais une ombre sinistre en étend la longueur. L'asile, Spellhold, se profile depuis une falaise.~ [CHAPT04A]
+//@55714 removed CHAPTER FOUR
+@2000018 = ~Bodhi a tenu ses promesses, et vous êtes rapidement mis à la voile, le flamboyant Saemon Havarian à la barre. Le voyage se déroule sans incident, et s’il y avait d’autres navires sur le même cap, ils devaient garder une distance discrète. Vous avez du bon temps, et bientôt il y a une grande île à l'horizon. Cela aurait pu être considéré comme un endroit agréable, mais une ombre sinistre en étend la longueur. L'asile Spellhold se profile au bord d'une falaise.~ [CHAPT04B]
+//@61361 removed CHAPTER FIVE
+@2000019 = ~L’immense profondeur d’Ombreterre s'étendent devant vous et, à mesure que vous vous habituez à la lumière tamisée, la réalité de l'endroit où vous vous trouvez commence à se révéler. C'est un royaume d'innombrables légendes, où le mal se cache derrière chaque ombre et tant que vous avez voyagé loin dans la poursuite d'Irenicus, ne vous êtes jamais senti aussi isolé. Aussi noir que votre situation puisse paraître, elle devient de plus en plus sombre.~ [CHAPT05]
+//@1389 removed CHAPTER SIX
+@2000020  = ~En dépits de tous vos voyages, ces derniers mètres à la surface ont semblé être de loin le plus long trek. Votre soulagement à voir la lumière du ciel est palpable, même si vous ne fuyiez pas vraiment le noir d’Ombreterre, mais plutôt la trahison constante. Malheureusement, même si le cadre a changé, votre avenir immédiat semble encore loin d'être paisible. Cette région a été le lieu de rassemblement de nombreuses batailles récentes et, à en juger par le visage des soldats elfes assiégés qui s’approchent à présent, il se peut qu’il y en ait d’autres à venir.~ [CHAPT06]
+//@61362 removed CHAPTER SEVEN
+@2000021 = ~Guidé par la lumière du Rhynn Lanthorn, vous traversez sans effort ce qui semblait être un mur d’arbres impénétrable. La ville qui vous accueille au moment de votre sortie est à la fois inspirante, mais aussi profondément troublante, car au milieu de l’architecture majestueuse se trouvent des dizaines de corps, des elfes qui sont tombés alors qu’ils défendaient leur maison. Suldanessellar est sous l'emprise d'Irenicus et de ses sbires, et il ne sera pas abandonné sans combat.~ [CHAPT07]
+
+/////                                                  \\\\\
+///// BG2:ToB                                          \\\\\
+/////                                                  \\\\\
+
+//no textscreen for chapter 20 (start of ToB)
+
+//@71591 removed CHAPTER NINE
+@2000022 = ~La poussière s’éparpille autour de vous, s'éclaircissant un instant plus tard pour révéler ce qui ne peut être qu'Amkethran. Un village niché dans un affleurement rocheux au milieu d'un désert si sec et dépourvu de vie que vous vous demandez comment un tel endroit pourrait survivre. Dominant le village et apparemment sculpté dans la paroi de pierre des rochers, il s’agit d’une vaste et riche forteresse ornée dont le but est inconnu.~ [25NARR02]
+//@71592 removed CHAPTER TEN
+@2000023 = ~Lorsque vous entrez dans le plan Abyssal, la première chose qui vous frappe est la sensation soudaine d'aliénation. Un vent froid souffle sur un vide creux, criant à vos oreilles que vous n'êtes pas le bienvenu ici. Plusieurs structures étranges et imposantes sont présentes, suspendues dans le vide par une puissance inconnue. Tous vos sens immortels vous disent cependant que la puissante essence de votre père décédé est proche et que cet endroit est bien le trône de Bhaal.~ [25NARR03]
+
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////                                                  \\\\\
+///// journal quests                                   \\\\\
+/////                                                  \\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+
+/////                                                  \\\\\
+///// BG1                                              \\\\\
+/////                                                  \\\\\
+
+//for consistency sake with BG2, chapter journal entries in BG1, that normally use textscreen strings, have been converted from narrator perspective to CHARNAME perspective. Simply change the narrative point of view from the narrator to CHARNAME character. Also remove sound assignment and add Chapter title. Read the English string as there may be places with changes to the text when original one wouldn't make sense when presented from CHARNAME point of view.
+
+//@16190 Chapitre 1
+@2000024 = ~Chapitre 1
+
+Je me suis réveillé en prenant conscience que ce n'était pas un cauchemar. Pris dans une embuscade, j'ai vu Gorion se faire abattre devant moi, et sa puissante magie n'a pas pu le sauver de ce violent assaut. Il m'a demandé de prendre la fuite, mais cela n'enlève pas le sentiment d'impuissance qui m'envahit à présent.
+
+"Remettez-nous votre enfant", dit le félon en armure. Il en avait après moi mais pour quelle raison ? Si seulement Gorion m'avait mis sur la piste, mais à présent je me sens seul et perdu. Château-Suif n'est pas loin, mais je ne peux pas m'y réfugier. Les lecteurs paient pour leur sérénité avec des règles d'accès assez draconiennes, et sans l'intervention de Gorion, les portes demeureront fermées.~
+//@15836 Chapitre 2
+@2000025 = ~Chapitre 2
+
+Peu après ma fuite précipitée de Château-Suif, les problèmes que doit confronter la Côte des Epées ne sont plus qu'un lointain souci pour mon esprit embrumé. Toutefois, Gorion n'a aucune envie de me voir m'adonner à l'oisiveté et peut-être qu'une enquête sur les problèmes locaux me permettrait de mieux comprendre ma propre situation. Comment la pénurie de fer ou les problèmes des mines de Nashkel peuvent-ils être liés à moi, je n'en ai aucune idée.~
+//@15837 Chapitre 3
+@2000026 = ~Chapitre 3
+
+Il ne fait aucun doute que la mort de Mulahey va soulager les craintes de la population terrorisée de Nashkel, mais je demeure dans l'inquiétude. S'il est possible que le demi-orque soit effectivement à l'origine des problèmes de la mine, la pénurie de fer est trop généralisée pour être de son seul fait. Ses lettres confirment mes soupçons, et bien qu'elles ne donnent guère d'indications sur la cachette de ses cohortes, celles-ci doivent être alliées aux bandits qui hantent actuellement la Côte des Épées.~
+//@15838 Chapitre 4
+@2000027 = ~Chapitre 4
+
+Mulahey et Tazok se sont révélés n'être que des marionnettes ; le véritable maître de ce mystère qui se dévoile peu à peu devant moi continue de m'échapper. Une chose est certaine : une personne a pris un intérêt très personnel à vouloir ma mort, mais je ne sais pas très bien pourquoi. Ma quête de réponses se poursuit et le prémonitoire Bois-Manteau est mon prochain objectif.~
+//@15839 Chapitre 5
+@2000028 = ~Chapitre 5
+
+J’ai fait subir un rude revers à l'organisation connue sous le nom de Trône de Fer, une défaite qui ne sera certainement pas passée sous silence. Je dois maintenant me rendre dans la grande cité de la Porte de Baldur, où je vais découvrir assurément la vérité qui se cache derrière l'étrange complot qui ronge la vie des habitants de la Côte des Épées.~
+//@15840 Chapitre 6
+@2000029 = ~Chapitre 6
+
+Mon voyage me ramène à mon point de départ. Le Duc Eltan m’a demandé de revenir à Château-Suif, où je dois espionner les chefs du Trône de Fer. Bien que cela me dérange que des personnages aussi maléfiques se servent de la grande bibliothèque et que j’aimerais que les circonstances de ma visite soient différentes, ce sera néanmoins un plaisir pour moi que de retrouver mon ancien foyer.~
+//@15841 Chapitre 7
+@2000030 = ~Chapitre 7
+
+La vie continue d'être un véritable défi. On m’accuse d'avoir assassiné les responsables du Trône de Fer, et le Poing Enflammé ne me lâchera certainement pas d'une semelle pour cette raison. En dépit de tout, je dois retourner à la Porte de Baldur, l'antre-même de mes accusateurs. Je dois retrouver et démasquer celui qui vous a mis dans ce guêpier. Je dois retrouver Sarevok.~
+
+/////                                                  \\\\\
+///// BG:SoD                                           \\\\\
+/////                                                  \\\\\
+
+//In SoD INFO chapter journal entries weren't present at all. See BG1 section comments.
+
+//@56974 Chapter 8
+@2000032 = ~Chapter 8
+
+Captain Schael Corwin and her aide, Corporal Bence Duncan, maintain order in the caravan from Baldur's Gate. Some who joined the expedition are unaccustomed to Flaming Fist discipline. Hard lessons are learned in the early days of the march north.
+
+The journey is slowed by the crusade's victims. A multitude of broken, haunted men and women clog the Coast Way. When asked, they speak of fields set aflame, granaries ransacked, and family conscripted by the crusade. Yet many characterize these hardships as necessary sacrifices in pursuit of a greater good. A strange acceptance, even admiration, of Caelar Argent is disconcertingly common in those she has wronged. Some proclaim the Shining Lady a prophet, doing the work of not one but all faiths, all gods.
+
+Is it possible Caelar Argent's cause is a righteous one? Or is she engaged in a great deception to further her own agenda, as Sarevok once did?~
+//@56368 Chapter 9
+@2000033 = ~Chapter 9
+
+With the Coast Way Crossing destroyed, the only safe route across the Winding Water is Boareskyr Bridge—where my father, Bhaal, was murdered by the mad god Cyric. Each step toward the distant landmark fills me with unease.
+
+I am not alone in that. The Flaming Fists also fear what may lie ahead. If Caelar has destroyed Boareskyr Bridge, the expedition will not reach Dragonspear Castle in time to stop the crusade. The forces of Baldur's Gate and its allies will be outmatched. Slaughtered.
+
+These fears grip my allies but also drive them forward. The anxious whispers fall silent when the march is called to a halt less than a day's travel from Boareskyr. The Flaming Fist sets up camp and prepares for the next meeting with the crusade, while I plan my next move.~
+//@56371 Chapter 10
+@2000034 = ~Chapter 10
+
+Signs of the crusade's recent presence can be seen on the road to Dragonspear Castle, but the Shining Lady's actual servants are rarely encountered. The few crusaders I spy in the distance invariably retreat at the first opportunity.
+
+As the march wears on, fatigue grips my company. Tempers flare within the caravan. My reputation as the hero of Baldur's Gate protects me from petty squabbles and angry outbursts... or perhaps, after what happened on Boareskyr Bridge, there is another reason few are willing to cross me.
+
+Dragonspear Castle is near, and so is Caelar's day of reckoning.~
+//@56373 Chapter 11
+@2000035 = ~Chapter 11
+
+Steel and magic still clash in the distance, but I have thwarted Caelar's attack upon the siege camp. The time has come for the combined forces of Waterdeep, Daggerford, and Baldur’s Gate to take the battle to the Shining Lady.
+
+The walls surrounding Dragonspear's ruins teem with crusaders. Among them are Caelar’s most trusted lieutenants, men and women of unparalleled skill ready to sacrifice all for their leader. Defeating them and penetrating the castle will not be easy, but that is the task before me.~
+//@56375 Chapter 12
+@2000036 = ~Chapter 12
+
+Avernus, the first pit of the Nine Hells, assaults my senses. The stench of brimstone and curdled milk fills my nostrils, coating my tongue and throat in a nausea-inducing film. The bitter moans of the damned envelop me, pressing in from all sides, smothering.
+
+As my watering eyes grow accustomed to the dim lava light of the pit, I begun to feel the oppressive majesty of the blasted waste around me. In pursuing the Shining Lady, I have been brought to the darkest place imaginable, and the pursuit is not yet over. Crusader corpses litter the ground around me, but of Caelar herself, there is no sign.~
+//@56378 Chapter 13: Part 1
+@2000037 = ~Chapter 13: Part 1
+
+I've returned to Baldur's Gate under circumstances much darker than anyone would have believed. What should have been a moment of crowning triumph is instead a nightmare beyond my understanding.
+
+Skie Silvershield lies dead, seemingly at my hand. The siege force's clerics are unable to revive her. Her magically preserved body has been transported to Grand Duke Entar Silvershield, who clings to the faint hope that his daughter might someday be resurrected. I share that hope; without Skie, I may never know the truth of what happened that dark night. 
+
+Once, I thought myself free of my father's taint. But as I journeyed to Dragonspear Castle, I realized this was not so. I am a child of Bhaal, Lord of Murder. A piece of him resides in me. Has it grown beyond my control? Was it my hand that plunged the dagger into Skie Silvershield's breast? I do not know. And that fact haunts me.
+
+When I left Baldur's Gate, people cheered me as the city's hero. Now they look upon me and see something very different.~
+
+/////                                                  \\\\\
+///// BG2:SoA                                          \\\\\
+/////                                                  \\\\\
+
+//@34089 Chapter 1 -> Chapter 13: Part 2
+@2000038 = ~Chapter 13: Part 2
+
+Ma vieille amie Imoen m'a sauvé de l'emprisonnement. Je ne me souviens pas comment j'ai été amené ici et je ne sais pas non plus qui souhaiterait nous voir enfermés. Mon esprit est douloureux et ma mémoire est confuse ... que s'est-il passé? Où suis-je?~
+//@23458 Chapter 2 -> Chapter 14
+@2000039 = ~Chapter 14
+
+Je me suis échappé du labyrinthe fou qu’était le cachot d'Irenicus pour rencontrer le sorcier lui-même dans une bataille avec des assassins en cuir noir. C'est peut-être pour cela que j'ai pu m'échapper aussi facilement que cela ... Je ne sais pas. Les assassins semblaient accuser le mage de quelque chose, auquel Irenicus a répondu avec colère et sa puissante magie. En effet, une partie de la structure qui l’entourait s’était effondrée sous l’effet de la puissance de ses sorts.
+
+À la fin du combat, cependant, Imoen attaqua elle-même Irenicus ... et lorsque d'étranges sorciers semblèrent mettre fin au conflit magique, ils emmenèrent Imoen et Irenicus.
+
+Je reste dans la ville d'Athkatla à Amn avec quelques alliés et ennemis que je ne connais pas. Imoen a disparu ... et le seul endroit où je peux aller pour obtenir des réponses est probablement le même endroit où elle a été prise.
+
+J'ai rencontré un homme nommé Gaelan Bayle, qui semble mystérieusement savoir qui je suis et qui m'a cherchée. Il a reçu une offre d'aide émanant d'une source tout aussi mystérieuse. Et celle-ci s’accompagne d’un prix très élevé ...~
+//@8730 Chapter 3 -> Chapter 15
+@2000040  = ~Chapter 15
+
+Tout au long de mon séjour à Athkatla et de mes aventures dans et autour de la ville, j'ai vu des allusions à une grande bataille entre les Voleurs de l'Ombre et une autre source… une guilde remplie de vampires et peut-être même de plus grands maux.
+
+Les ennemis des voleurs de l'Ombre sont maintenant mon ennemi, j'en suis sûr. Gaelan m'a envoyé avec une clé pour rencontrer le Maître des Ombres des Voleurs de l'Ombre, lui qui contrôle l'intégralité de cette organisation puissante: Aran Linvail. C'est de loin préférable que de recevoir "l'aide" de vampires ... même si je doute que l'or que j'ai donné à Gaelan soit le prix final que je devrai payer pour l'aide des Voleurs de l'Ombre.~
+//@23351 Chapter 3 -> Chapter 15
+@2000041 = ~Chapter 15
+
+Tout au long de mon séjour à Athkatla et de mes aventures dans et autour de la ville, j'ai vu des allusions à une grande lutte entre les Voleurs de l'Ombre et une autre source. Cette autre source m’a abordée sous la forme de Bodhi… une femme de grande puissance et du mal rivalisant avec son ambition. Elle a révélé que la nature de mes bienfaiteurs sous Gaelan Bayle n'était autre que les Voleurs de l'Ombre eux-mêmes et m'a proposé de me donner la même aide que celle qu'ils ont offerte ... mais à un prix bien moindre.
+
+J'ai accepté l'offre de Bodhi et elle m'a pris dans sa confiance pour le moment. La vraie nature de ses motivations n'a pas encore été révélée, mais il est évident que Bodhi est le vainqueur de ce conflit à l'échelle de la ville. Quant à l'or que je lui ai donné pour son aide ... J'ai l'impression que ce n'est que le début du prix final que je devrai éventuellement payer. Mais j'aurai mes réponses ... Je trouverai Imoen et Irenicus tous les deux.~
+//@20632 Chapter 4 -> Chapter 16
+@2000042 = ~Chapter 16
+
+J'ai terminé les tâches que Aran Linvail m'avait confiées, notamment détruire la guilde rivale créée par Bodhi et forcer la vampire à fuir elle-même. Aujourd'hui, le Maître des Ombres m'a éclairé sur plusieurs points.
+
+Les Voleurs de l'Ombre sont ceux qui ont attaqué Irenicus dans le cachot dans lequel je me suis réveillé. Ils avaient entendu parler de mon enlèvement, mais n'y avaient pas beaucoup pensé ... mais ensuite la guilde de Bodhi est apparue et beaucoup de Voleurs de l'Ombre ont commencé à disparaître. Ils ont réussi à retrouver le cachot d'Irenicus et à le relier à Bodhi ... et j'ai été témoin de leur assaut désastreux qui a suivi.
+
+Aran se sent en partie responsable de l'enlèvement d'Imoen et me dit qu'elle et Irenicus ont été emmenés au même endroit: un asile insulaire pour mages appelé Spellhold. L'or que j'ai fourni a été utilisé pour réserver le passage vers l'île, et c'est là que je trouverai les réponses que je cherche. Aran me prévient cependant que l'asile est une véritable forteresse destinée à contenir des sorciers fous et d'autres "déviants" ... et même entrer sur le territoire sera un exploit en soi. Quoi qu'il en soit, le passage avec un corsaire nommé Saemon Havarian a été réservé et je suis en route ...~
+//@20633 Chapter 4 -> Chapter 16
+@2000043 = ~Chapter 16
+
+Maintenant que j’ai terminé les tâches que Bodhi m’avait confiées, notamment la perturbation des Voleurs de l’Ombre et l’assassinat du Maître des Ombres, Aran Linvail lui-même, elle a rendu certaines choses un peu plus claires.
+
+Irenicus, le mage qui m'a kidnappé, est le frère de Bodhi. Elle dit qu'elle n'a pas soutenu son enlèvement, ce qui a apparemment été fait parce que je suis un enfant de Bhaal. Ce que Imoen et moi avons perçu comme une torture était en réalité le mage qui tentait de découvrir et d'activer "mon vrai potentiel" ... que je le souhaite ou non.
+
+Bodhi veut retrouver son frère et avoir accès aux connaissances qu'il possède. Pour mon aide, elle transmettra toutes les informations dont il dispose sur moi. Elle m'accompagnera au-delà de ce point, car Irenicus et Imoen sont détenus au même endroit: une forteresse appelée Spellhold sur une île éloignée, loin d'Amn. L'or que je lui ai donné a été utilisé pour réserver le passage avec un corsaire nommé Saemon Havarian. Une fois sur l'île, il me faudra trouver un moyen d'entrer dans l'asile ... bien que je ne sache pas comment Bodhi participera elle-même. Bientôt, j'aurai les réponses que je cherche ...~
+//@10944 Chapter 5 -> Chapter 17
+@2000044 = ~Chapter 17
+
+Le plan d'Irenicus n'était rien de plus que de m'attirer dans l'asile pour que je puisse retrouver son pouvoir. Il m'a révélé qu'Imoen, de tout le monde, n'était rien d'autre qu'un enfant de Bhaal elle-même… de toute évidence, la raison pour laquelle Gorion l'avait prise avec moi-même. Irenicus avait déjà volé l'âme divine d'Imoen ... et après un rituel, il m'a fait la même chose. Tout cela fait partie d'un plan de vengeance ultime sur lequel il ne parlait pas davantage.
+
+Bodhi devait se débarrasser de moi, ce qui me permettait de chasser un peu à travers le cachot de l'asile. Je n'ai survécu qu'en me voyant transformé en avatar de Bhaal: le tueur. Avec mon âme partie, je ne peux plus contrôler la souillure en moi.
+
+Sortir du cachot m'a amené à libérer les détenus de l'asile ... et avec eux, nous avons pu forcer Irenicus à se retirer. C'est une victoire, mais qui sonne creux ... le mage n'est pas vaincu, encore. Et Imoen et moi sommes toujours sans nos âmes ...~
+//@11722 Chapter 6 -> Chapter 18
+@2000045 = ~Chapter 18
+
+En quittant Spellhold et en suivant Irenicus et Bodhi, je me suis retrouvé dans l’Ombreterre. Là, j’ai appris que les deux avaient réussi à voler les œufs d’Adalon, un dragon d’argent… et les avaient négociés avec les elfes noirs en échange d’un passage et peut-être d’un service que je ne connaissais pas. Le dragon m'a déguisé en elfe noir pour que je puisse infiltrer Ust Natha. Grâce à ses efforts et aux miens, j'ai pu survivre à l’Ombreterre en apprenant un peu d'Irenicus et de son plan en cours de route.
+
+Autant que je sache, les actions d'Irenicus ont neutralisé l'influence d'Adalon en tant que gardien d'un temple elfique. Bien que les elfes noirs se soucient peu de la conquête au-dessus du sol, cela leur a permis de porter un coup insultant aux elfes de surface. Les elfes noirs ont maintenant détruit un lieu symbolique et saint elfique, mobilisant une importante force elfique pour sécuriser la zone et exercer des représailles au besoin. Beaucoup sont morts de chaque côté. De toute évidence, Irenicus envisage d'utiliser le carnage à son avantage ... mais comment ?~
+//@23513 Chapter 7: Part 1 -> Chapter 19: Part 1
+@2000046 = ~Chapter 19: Part 1
+
+Elhan, le chef de l'armée elfique, a rempli de nombreuses pièces du puzzle concernant Irenicus. Le mage et sa sœur étaient autrefois des elfes… et leur ambition, leur désir de pouvoir rivaliser avec les dieux, les ont amenés à commettre une atrocité qui a eu pour effet de leur priver de tout ce qui leur était destiné. Laissés à la longévité d'un humain, ils ont chacun trouvé différents moyens de prolonger leur vie ... Bodhi par le vampirisme, Irenicus par le pouvoir ... pour obtenir le pouvoir qu'ils désiraient.
+
+Irenicus avait envahi Suldanessellar pendant que l'armée elfique s'activait avec l’elfe noir ... puis il dissimulait la ville elfique dans une illusion qui la dissimulait à quiconque. Elhan m'a envoyé chercher une lanterne mystique, la Rhynn Lanthorn, qui dissiperait l'illusion. L'objet a été volé sur le site sacré des elfes par Bodhi ... entraînant une confrontation difficile qui a détruit la vampire une fois pour toutes. Maintenant, tout ce qui reste à traiter est Irenicus. Ses plans doivent être arrêtés et je dois regagner mon âme ou être condamné à mort ... ou pire ...~
+//@5743 Chapter 7: Part 2 -> Chapter 19: Part 2
+@2000047  = ~Chapter 19: Part 2
+
+Irenicus avait tenté de marcher parmi les dieux, prenant le pouvoir de l'arbre de vie elfique pour lui-même. Je l'ai arrêté ... et alors qu'il était encore affaibli par la séparation de la reine Ellesime avec l'Arbre, j'ai réussi à le tuer.
+
+Mais ce n'est pas fini. Il a toujours mon âme et c'était peut-être une raison suffisante pour que je sois entraîné en enfer après lui. Peut-être était-ce le pouvoir de l'arbre ou autre chose; Je ne sais pas. Mais je suis maintenant en enfer, avec une dernière chance de retrouver Irenicus et de récupérer mon âme.
+
+Ici, il va falloir en terminer. D'une manière ou d'une autre.~
+
+/////                                                  \\\\\
+///// BG2:ToB                                          \\\\\
+/////                                                  \\\\\
+
+//@73256 Chapter 8 -> Chapter 20
+@2000048 = ~Chapter 20
+
+Cela a commencé.
+
+Même avant que je quitte Suldanessellar, la nouvelle avait déjà commencé à affluer de partout ... des histoires d'armées en mouvement, des villes entières détruites pour s'attaquer à un sorcier solitaire, un carnage massif et des destructions sur toute la côte de l'épée. Tout est lié à l’enfant de Bhaal. Ils sont chassés ou se chassent ... Quel que soit le cas, quel que soit le lieu où se trouve l'enfant de Bhaal, la violence s'ensuit. Et ainsi la peur et la panique se sont propagées, tout innocent, même soupçonné d’avoir la souillure, chassé de leur domicile ou tué sur le coup.
+
+Même les terres elfiques ne sont pas à l'abri et j'ai ressenti un soulagement considérable lors de mon départ de la ville même que j'ai aidé à sauver. Ellesime, au moins, m'a donné quelques conseils ... il y a une partie des vieux bois elfiques qui abrite d'anciens esprits d'ancêtres des elfes, des esprits enfermés dans des visages géants sculptés créés il y a si longtemps que même les elfes ne se souviennent pas de leur création. C'est un lieu sacré réservé à la royauté, mais Ellesime me permet d'entrer dans la vallée et de glaner ma sagesse.
+
+Je suis parti seul ... aucun des elfes de la forêt elfes ne veut être près de moi. Et bien qu'aucun autre ne soit censé être ici, je suis sûr que le danger me guette encore. Je devrais préparer mes armes et mon équipement et être prêt à tout ...~
+//@73258 Chapter 9 -> Chapter 21
+@2000049 = ~Chapter 21
+
+Saradush a été limogé. Yaga-Shura avait traversé le mur pour trouver un enfant de Bhaal ... moi-même. Je n'étais pas là, cependant, alors il s'est contenté de tout détruire sur son passage, y compris tous les autres enfants de Bhaal qui y avaient trouvé refuge.
+
+Melissan a survécu, même si elle semblait dévastée. Je suis l'un des rares enfants de Bhaal qui reste ... les seuls autres sont un groupe composé individuellement des plus puissants enfants de Bhaal qui restent à Faerun. Ils ont pourchassé leurs frères et soeurs, y compris moi, mais même Melissan ne sait pas à quelle fin. Peut-être cherchent-ils à élever Bhaal et à devenir ses avatars terrestres. Peut-être cherchent-ils à devenir eux-mêmes des dieux. Mais ils ne se reposeront pas tant que je ne serai pas mort ... et leurs pouvoirs combinés suffiront à me détruire, déclare Melissan.
+
+Je n’ai pas beaucoup d'autres choix que de suivre l'offre d'aide de Melissan. Elle connaît un refuge dans le désert Calishite ... un endroit appelé Amkethran ... à partir duquel je peux planifier la meilleure façon d'affronter ces enfants de Bhaal qui me traquent et mettent fin à toutes les questions concernant mon avenir et mon destin ... quoi qu'il en soit ... une fois pour toutes.~
+//@73257 Chapter 10 -> Chapter 22
+@2000050 = ~Chapter 22
+
+Tout s’est finalement révélé à moi maintenant.
+
+Bhaal ne reviendra pas. Peut-être aurait-il pu le faire si l'on pouvait compter sur le mal. Bhaal a laissé la clé de sa résurrection avec sa grande prêtresse et elle l'a trahi, utilisant tout le pouvoir des âmes rassemblées des enfants morts de Bhaal pour se transformer en déesse et laisser Bhaal mort à l'endroit où il appartient.
+
+Melissan a trompé son ancien maître, et elle m'a trompé. Elle manipula tous les enfants de Bhaal, même les membres des Cinq qu'elle avait rassemblés en secret pour tuer les autres. Même Balthazar, qui n'avait pas confiance en elle et avait l'intention de la tuer.
+
+Je suis le dernier des enfants de Bhaal ... mais même maintenant, Melissan détient l'essentiel de son pouvoir. Elle est dans les Abysses ... et mon seul moyen d'y arriver était de détruire l'avion de poche que j'avais créé par inadvertance. Je suis prêt à lui faire face maintenant.
+
+Il n'y a pas de retour en arrière.~
+
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////                                                  \\\\\
+///// textscreens titles                               \\\\\
+/////                                                  \\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+
+/////                                                  \\\\\
+///// BG1                                              \\\\\
+/////                                                  \\\\\
+
+//@16203 no changes
+@2000051 = ~Chapitre Un~
+//@16204 no changes
+@2000052 = ~Chapitre Deux~
+//@16205 no changes
+@2000053 = ~Chapitre Trois~
+//@16206 no changes
+@2000054 = ~Chapitre Quatre~
+//@16207 no changes
+@2000055 = ~Chapitre Cinq~
+//@16208 no changes
+@2000056 = ~Chapitre Six~
+//@16209 no changes
+@2000057 = ~Chapitre Sept~
+
+/////                                                  \\\\\
+///// BG:SoD                                           \\\\\
+/////                                                  \\\\\
+
+//@56369 no changes
+@2000058 = ~Chapitre Huit~
+//@56370 no changes
+@2000059 = ~Chapitre Neuf~
+//@56372 no changes
+@2000060 = ~Chapitre Dix~
+//@56374 no changes
+@2000061 = ~Chapitre Onze~
+//@56376 no changes
+@2000062 = ~Chapitre Douze~
+//@56975 no changes
+@2000063 = ~Chapitre Treize~
+
+/////                                                  \\\\\
+///// BG2:SoA                                          \\\\\
+/////                                                  \\\\\
+
+//@74414 Chapter 1
+@2000064 = ~Chapitre Treize~
+//@74412 Chapter 2
+@2000065 = ~Chapitre Quatorze~
+//@74390 Chapter 3
+@2000066 = ~Chapitre Quinze~
+//@74407 Chapter 4
+@2000067 = ~Chapitre Seize~
+//@74399 Chapter 5
+@2000068 = ~Chapitre Dix-Sept~
+//@74400 Chapter 6
+@2000069 = ~Chapitre Dix-Huit~
+//@74353 Chapter 7
+@2000070 = ~Chapitre Dix-Neuf~
+
+/////                                                  \\\\\
+///// BG2:ToB                                          \\\\\
+/////                                                  \\\\\
+
+//@71020 Chapter 8
+@2000071 = ~Chapitre Vingt~
+//@71021 Chapter 9
+@2000072 = ~Chaptitre Vingt-Un~
+//@71022 Chapter 10
+@2000073 = ~Chapitre Vingt-Deux~
+
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////                                                  \\\\\
+///// textscreens titles upper                         \\\\\
+/////                                                  \\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
+
+@2000074 = ~CHAPITRE UN~
+@2000075 = ~CHAPITRE DEUX~
+@2000076 = ~CHAPITRE TROIS~
+@2000077 = ~CHAPITRE QUATRE~
+@2000078 = ~CHAPITRE CINQ~
+@2000079 = ~CHAPITRE SIX~
+@2000080 = ~CHAPITRESEPT~
+@2000081 = ~CHAPITRE HUIT~
+@2000082 = ~CHAPITRE NEUF~
+@2000083 = ~CHAPITRE DIX~
+@2000084 = ~CHAPITRE ONZE~
+@2000085 = ~CHAPITRE DOUZE~
+@2000086 = ~CHAPITRE TREIZE~
+@2000087 = ~CHAPITRE QUATORZE~
+@2000088 = ~CHAPITRE QUINZE~
+@2000089 = ~CHAPITRE SEIZE~
+@2000090 = ~CHAPITRE DIX-SEPT~
+@2000091 = ~CHAPITRE DIX-HUIT~
+@2000092 = ~CHAPITRE DIX-NEUF~
+@2000093 = ~CHAPITRE VINGT~
+@2000094 = ~CHAPITRE VINGT-ET-UN~
+@2000095 = ~CHAPITRE VINGT-DEUX~
